@@ -7,7 +7,7 @@ Counts from 0 to 10, and prints odd numbers to the screen.
 Software Overview
 =====================
 
-Utilize a for loop to count from 1 to 10. 
+Utilize a for loop to count from 1 to 10 and if sttmentet to only print odd number. 
 
 Test Data
 ============
